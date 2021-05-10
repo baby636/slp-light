@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "axios": "0.19.2",
-    "bchaddrjs-slp": "^0.2.8",
+    "bchaddrjs-slp": "^0.2.14",
     "bignumber.js": "9.0.0",
     "bitbox-sdk": "8.11.2",
     "qs": "^6.9.4",
