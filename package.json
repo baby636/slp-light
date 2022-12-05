@@ -54,7 +54,7 @@
     "bchaddrjs-slp": "^0.2.8",
     "bignumber.js": "9.0.0",
     "bitbox-sdk": "8.11.2",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "slp-mdm": "0.0.6"
   },
   "devDependencies": {
